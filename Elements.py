@@ -4,7 +4,7 @@ import calendar
 def sideBar(pdf):
     
     pdf.setStrokeColor(light_line_color)
-    pdf.setFont('UniSans', 10)
+    pdf.setFont('UniSansHeavy', 10)
     tabWidth = 40
     number_of_tabs = 12 + len(tabs)
     tabHeight = page_height/number_of_tabs

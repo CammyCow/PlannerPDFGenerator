@@ -4,8 +4,8 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfbase import pdfmetrics
 
 #main start if python had main functions
-fileName = 'sample.pdf'
-documentTitle = 'sample'
+fileName = '2024planner.pdf'
+documentTitle = '2024planer'
 year = 2024
 
 pdf = canvas.Canvas(fileName)
