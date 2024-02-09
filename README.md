@@ -5,7 +5,8 @@ Generate hyperlinked planners super easy
 Code needed to generate a planner
 Premade and fully linked planners for 2024 in the PremadePlanners folder
 
-#How to customize
+# How to customize
+
 Specify the year in Generator.py and automatically generate a fully linked, yearly planner with monthly and daily entries
 
 Edit the color scheme by going into Constants.py and changing the rbg values of the colors. 
